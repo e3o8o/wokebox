@@ -1,2 +1,2 @@
 # wokebox
-wokebox.gg
+wokebox.xyz
